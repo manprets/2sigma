@@ -17,6 +17,8 @@ This project requires following Python libraries:
 -   matplotlib
 -   scikit-learn
 -   scipy
+-   tensorflow
+-   time
 
 ##Data
 This project uses data avaibale at https://www.kaggle.com/c/two-sigma-financial-modeling/data
